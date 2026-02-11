@@ -21,6 +21,12 @@ Four buttons assigned to different parties  ,
  Automatic reset after displaying result  ,
  Handles no-vote condition
 
+
+ ## Screenshot
+
+![Arduino EVM](evm-simulation.png)
+
+
  How to Run the Project  :
  Open the Tinkercad link provided  ,
 Start Simulation  , 
